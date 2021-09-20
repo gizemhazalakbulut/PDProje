@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\bin\Debug\AlfaProject.exe.config
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\bin\Debug\AlfaProject.exe
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\bin\Debug\AlfaProject.pdb
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.AlfaProjeMDIParent.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.Bolunebilme.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.KokluSayilar.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.OranOrantı.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.UsluSayilar.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.YolProblemleri.resources
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.exe
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.pdb
+C:\Users\LENOVO\Desktop\HProje\AlfaProject\AlfaProject\obj\Debug\AlfaProject.IsciProblemleri.resources
